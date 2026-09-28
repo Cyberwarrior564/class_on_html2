@@ -1,0 +1,124 @@
+.navbar{
+    display: flex;
+    background-color: black;
+    margin: -10px;
+}
+
+.logo{
+    height: 60px;
+    width: auto;
+    border-radius: 30px;
+    border: 2px;
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
+.nav-content{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+a{
+    margin-left: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    background-color: blue;
+    padding: 7px;
+    border-radius: 10px;
+    border: 2px solid yellow;
+}
+
+table{
+    margin: 100px;
+    margin-left: 300px;
+    border: 1px blue solid;
+    border-collapse: separate;
+    border-spacing: 3px 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+th{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+td{
+    background-color: lightgreen;
+    color: darkblue;
+    font-size: 15px;
+    font-weight: 200;
+    padding: 10px;
+}
+
+a:hover{
+    background-color: yellowgreen;
+}
+
+form{
+    background-color: lightgreen;
+    padding: 40px;
+    width: 800;
+    border: 5px green solid;
+    border-radius: 10px;
+    text-align: center;
+}
+
+input{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 900;
+    border: 1px white solid;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+option{
+     font-size: 20px;
+    font-weight: 600;
+}
+
+option:hover{
+    background-color: white;
+}
+
+select{
+     background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 900;
+    border: 1px white solid;
+    border-radius: 10px;
+     margin-top: 40px;
+    margin-right: 40px;
+}
+
+select:hover{
+    background-color: white;
+}
+
+.type{
+    margin-top: 40px;
+    background-color: darkgreen;
+    color: lightgreen;
+    font-size: 25px;
+    font-weight: 900;
+    border-radius: 20px;
+    width: 150px;
+    height: auto;
+    border: 5px white solid;
+}

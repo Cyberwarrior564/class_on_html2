@@ -1,0 +1,48 @@
+form{
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 50px;
+    padding: 20px;
+    
+}
+
+section{
+    background-color: brown;
+    margin-left: 290px;
+    margin-right: 300px;
+    padding: 20px;
+    border-radius: 40px;
+    font-weight: 50%;
+}
+
+img{
+    height: 130px;
+    width: auto;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+h1{
+    margin-left: 270px;
+    margin-top: 10px;
+}
+
+button{
+    margin-left: 160px;
+}
+
+label{
+    font-weight: 600;
+    margin-left: 50px;
+}
+
+.input{
+    margin-left: 50px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+}

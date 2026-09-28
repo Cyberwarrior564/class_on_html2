@@ -1,0 +1,60 @@
+.navbar{
+    display: flex;
+    background-color: black;
+}
+
+img{
+    height: 60px;
+    width: auto;
+    border-radius: 40px;
+    margin-right: 150px;
+    margin-left: 20px;
+    padding: 10px;
+    border: 2px solid yellow;
+}
+
+.nav-content{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+a{
+    margin-left: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    background-color: blue;
+    padding: 7px;
+    border-radius: 10px;
+    border: 2px solid yellow;
+}
+
+table{
+    margin: 100px;
+    margin-left: 300px;
+    border: 1px blue solid;
+    border-collapse: separate;
+    border-spacing: 3px 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+th{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+td{
+    background-color: lightgreen;
+    color: darkblue;
+    font-size: 15px;
+    font-weight: 200;
+    padding: 10px;
+}
+
+a:hover{
+    background-color: yellowgreen;
+}

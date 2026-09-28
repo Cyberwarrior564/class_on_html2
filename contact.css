@@ -1,0 +1,112 @@
+main{
+    background-image: url(bg.jpeg);
+    height: 680px;
+    width: 100%;
+    margin: 0px;
+}
+
+h2{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    margin-top: 100px;
+}
+
+button{
+    margin-top: 30px;
+    background-color: skyblue;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px ;
+    padding-right: 50px;
+    font-weight: 600;
+    color: white;
+}
+
+input{
+    border-radius: 5px;
+    border: 1px skyblue solid;
+    padding-right: 50px ;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.name{
+    margin-left: 350px;
+}
+
+.icon1{
+    background-color: skyblue;
+    width: fit-content;
+    padding: 30px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.icon2{
+    background-color: skyblue;
+    width: fit-content;
+    padding: 30px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.icon3{
+    background-color: skyblue;
+    width: fit-content;
+    padding: 30px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.icon{
+    display: flex;
+    gap: 50px;
+}
+
+.navbar{
+    display: flex;
+    background-color: white;
+    padding-top: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 90px;
+    gap: 20px;
+}
+
+.nav content{
+    
+}
+
+h3{
+    margin-top: 0px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.Get{
+    background-color: red;
+    padding: 13px;
+    border-radius: 10px;
+    color: white;
+}
+
+.Get:hover{
+    background-color: black;
+    color: wheat;
+}

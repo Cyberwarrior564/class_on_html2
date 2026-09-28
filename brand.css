@@ -1,0 +1,150 @@
+.navbar{
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: -20px;
+}
+
+.logo{
+    margin-left: 30px;
+    margin-right: 130px;
+    margin-top: 0px;
+}
+
+
+a{
+    gap: 30px;
+    text-decoration: none;
+    margin-left: 70px;
+    margin-top: 20px;
+    color: #111827;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.get{
+    background-color: #0057d9;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.get:hover{
+    background-color: black;
+    color: white;
+}
+
+h3{
+    margin-top: 0px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+main{
+    background-image: url(main.jpg);
+    height: 300px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.t1{
+    color: white;
+    margin-left: 80px;
+    padding-top: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.t2{
+    color: white;
+    margin-left: 80px;
+    padding-top: 0px;
+}
+
+.learn{
+    color: white;
+    background-color: blue;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 80px;
+    border-radius: 5px;
+}
+
+.learn:hover{
+    background-color: #550404;
+}
+
+img{
+    margin-top: 105px;
+    margin-left: 60px;
+    border-radius: 7px;
+}
+
+.main2{
+    display: flex;
+    margin-bottom: 35px;
+}
+
+.about-us{
+    margin-left: 60px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.about{
+    color: #0057d9;
+}
+
+.we{
+    margin-left: -10px;
+}
+
+.read{
+    color: #0057d9;
+    border: 1px solid #0057d9;
+    font-size: 12px;
+    padding: 7px;
+    margin-left: -5px;
+}
+
+.what{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.set{
+    color: #0057d9;
+}
+
+.services{
+    background-color: rgb(231, 225, 225);
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.grid-content{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    gap: 15px;
+    margin-top: 50px;
+    margin-left: 160px;
+}
+
+.grid-content .grid-items{
+    background-color: white;
+    color: #111827;
+    height: 100px;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.contact{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+}
+
+.con{
+    color: #0057d9;
+}
+

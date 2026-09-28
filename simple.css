@@ -1,0 +1,84 @@
+.navbar{
+    display: flex;
+    background-color: white;
+    margin-top: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 90px;
+    gap: 20px;
+}
+
+.nav content{
+    
+}
+
+h3{
+    margin-top: 0px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.Get{
+    background-color: red;
+    padding: 13px;
+    border-radius: 10px;
+    color: white;
+}
+
+.Get:hover{
+    background-color: black;
+    color: wheat;
+}
+main{
+    background-image: url(bg.jpeg);
+    height: 680px;
+    width: 100%;
+    margin: 0px;
+}
+
+.learn{
+    background-color: red;
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.me{
+    border: 1px red solid;
+    border-width: 1px;
+    padding: 10px;
+    margin-top: 200px;
+}
+
+footer{
+    display: flex;
+    margin-left: 385px;
+    margin-top: 50px;
+}
+
+.d1{
+    font-weight: 200;
+}
+
+.get{
+    color: red;
+    padding-top: 200px;
+    padding-left: 150px;
+}
+.text{
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+.b2{
+    margin-left:150px;
+}
+
+.b1{
+    margin-bottom: 50px;
+}

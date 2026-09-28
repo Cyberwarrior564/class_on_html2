@@ -1,0 +1,16 @@
+.grid-content{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    gap: 15px;
+    margin-top: 50px;
+}
+
+.grid-content .grid-items{
+    background-color: #a52a2a;
+    color: white;
+    height: 400px;
+    padding: 30px;
+    border-radius: 50px;
+    font-size: 50px;
+    text-align: center;
+}
